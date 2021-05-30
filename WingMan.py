@@ -14,6 +14,7 @@ from phonenumbers import carrier
 from phonenumbers import geocoder
 import psutil
 import platform
+import sys
 
 
 engine = pyttsx3.init('sapi5')
@@ -230,3 +231,6 @@ if __name__ == "__main__":
                 speak("Your password is", mainPassword)
             except Exception:
                 speak("Tell me an integer less than ninty five")
+
+        elif 'exit' in query:
+            sys.exit()
