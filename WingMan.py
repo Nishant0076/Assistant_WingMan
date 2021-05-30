@@ -233,4 +233,6 @@ if __name__ == "__main__":
                 speak("Tell me an integer less than ninty five")
 
         elif 'exit' in query:
+            speak("Bye Bye!!)
+            speak("Have a Great Day!!)
             sys.exit()
