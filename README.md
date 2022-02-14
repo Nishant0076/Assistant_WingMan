@@ -24,16 +24,6 @@
 <br />
 
 ---
-
-### 📺 References :
-
-<!-- YOUTUBE:START -->
-- [Project 1: Iron Man Jarvis AI Desktop Voice Assistant | Python Tutorials For Absolute Beginners](https://youtu.be/Lp9Ftuq2sVI)
-- [Took some ideas from this instagram page](https://www.instagram.com/the_beta_programmer/)
-- [Used Python's official website to get information on the modules used in this Project](https://www.python.org/)
-- [Refer for some code was taken from here](https://www.geeksforgeeks.org/)
-<!-- YOUTUBE:END -->
-
 [github]: https://github.com/Nishant0076
 [instagram]: https://www.instagram.com/nishhhant.76/
 [linkedin]: https://www.linkedin.com/in/nishantvilkar076/
